@@ -1,1 +1,2 @@
-서민수 20183221
+Commit in secondBranch
+## commit in the secondBranch
